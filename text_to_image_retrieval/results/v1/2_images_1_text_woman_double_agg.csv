@@ -1,0 +1,261 @@
+model,activity,score
+BAAI/AltCLIP,baking bread,0.6363636363636364
+BAAI/AltCLIP,beading earrings,0.4
+BAAI/AltCLIP,catching fish,0.9166666666666666
+BAAI/AltCLIP,choosing dress,0.6
+BAAI/AltCLIP,climbing tree,0.4
+BAAI/AltCLIP,drinking beer,0.3076923076923077
+BAAI/AltCLIP,holding baby,0.7692307692307693
+BAAI/AltCLIP,holding gun,0.4
+BAAI/AltCLIP,leading team,0.45454545454545453
+BAAI/AltCLIP,picking flower,0.08333333333333333
+EVA01-g-14 laion400m_s11b_b41k,baking bread,0.7272727272727273
+EVA01-g-14 laion400m_s11b_b41k,beading earrings,0.45
+EVA01-g-14 laion400m_s11b_b41k,catching fish,0.9166666666666666
+EVA01-g-14 laion400m_s11b_b41k,choosing dress,0.5
+EVA01-g-14 laion400m_s11b_b41k,climbing tree,0.5
+EVA01-g-14 laion400m_s11b_b41k,drinking beer,0.3076923076923077
+EVA01-g-14 laion400m_s11b_b41k,holding baby,0.7692307692307693
+EVA01-g-14 laion400m_s11b_b41k,holding gun,0.5
+EVA01-g-14 laion400m_s11b_b41k,leading team,0.5454545454545454
+EVA01-g-14 laion400m_s11b_b41k,picking flower,0.3333333333333333
+EVA01-g-14-plus merged2b_s11b_b114k,baking bread,0.5454545454545454
+EVA01-g-14-plus merged2b_s11b_b114k,beading earrings,0.4
+EVA01-g-14-plus merged2b_s11b_b114k,catching fish,0.8333333333333334
+EVA01-g-14-plus merged2b_s11b_b114k,choosing dress,0.5
+EVA01-g-14-plus merged2b_s11b_b114k,climbing tree,0.2
+EVA01-g-14-plus merged2b_s11b_b114k,drinking beer,0.23076923076923078
+EVA01-g-14-plus merged2b_s11b_b114k,holding baby,0.38461538461538464
+EVA01-g-14-plus merged2b_s11b_b114k,holding gun,0.6
+EVA01-g-14-plus merged2b_s11b_b114k,leading team,0.9090909090909091
+EVA01-g-14-plus merged2b_s11b_b114k,picking flower,0.75
+EVA02-B-16 merged2b_s8b_b131k,baking bread,0.45454545454545453
+EVA02-B-16 merged2b_s8b_b131k,beading earrings,0.3
+EVA02-B-16 merged2b_s8b_b131k,catching fish,0.8333333333333334
+EVA02-B-16 merged2b_s8b_b131k,choosing dress,0.7
+EVA02-B-16 merged2b_s8b_b131k,climbing tree,0.4
+EVA02-B-16 merged2b_s8b_b131k,drinking beer,0.46153846153846156
+EVA02-B-16 merged2b_s8b_b131k,holding baby,0.3076923076923077
+EVA02-B-16 merged2b_s8b_b131k,holding gun,0.7
+EVA02-B-16 merged2b_s8b_b131k,leading team,0.45454545454545453
+EVA02-B-16 merged2b_s8b_b131k,picking flower,0.25
+EVA02-L-14 merged2b_s4b_b131k,baking bread,0.7272727272727273
+EVA02-L-14 merged2b_s4b_b131k,beading earrings,0.5
+EVA02-L-14 merged2b_s4b_b131k,catching fish,0.75
+EVA02-L-14 merged2b_s4b_b131k,choosing dress,0.6
+EVA02-L-14 merged2b_s4b_b131k,climbing tree,0.4
+EVA02-L-14 merged2b_s4b_b131k,drinking beer,0.5384615384615384
+EVA02-L-14 merged2b_s4b_b131k,holding baby,0.7692307692307693
+EVA02-L-14 merged2b_s4b_b131k,holding gun,0.8
+EVA02-L-14 merged2b_s4b_b131k,leading team,0.6363636363636364
+EVA02-L-14 merged2b_s4b_b131k,picking flower,0.75
+EVA02-L-14-336 merged2b_s6b_b61k,baking bread,0.7272727272727273
+EVA02-L-14-336 merged2b_s6b_b61k,beading earrings,0.5
+EVA02-L-14-336 merged2b_s6b_b61k,catching fish,0.6666666666666666
+EVA02-L-14-336 merged2b_s6b_b61k,choosing dress,0.7
+EVA02-L-14-336 merged2b_s6b_b61k,climbing tree,0.4
+EVA02-L-14-336 merged2b_s6b_b61k,drinking beer,0.23076923076923078
+EVA02-L-14-336 merged2b_s6b_b61k,holding baby,0.38461538461538464
+EVA02-L-14-336 merged2b_s6b_b61k,holding gun,0.6
+EVA02-L-14-336 merged2b_s6b_b61k,leading team,0.6363636363636364
+EVA02-L-14-336 merged2b_s6b_b61k,picking flower,0.6666666666666666
+RN50x64 openai,baking bread,0.7272727272727273
+RN50x64 openai,beading earrings,0.35
+RN50x64 openai,catching fish,0.5833333333333334
+RN50x64 openai,choosing dress,0.4
+RN50x64 openai,climbing tree,0.4
+RN50x64 openai,drinking beer,0.6153846153846154
+RN50x64 openai,holding baby,0.46153846153846156
+RN50x64 openai,holding gun,0.4
+RN50x64 openai,leading team,0.8181818181818182
+RN50x64 openai,picking flower,0.16666666666666666
+ViT-B-16 openai,baking bread,0.45454545454545453
+ViT-B-16 openai,beading earrings,0.35
+ViT-B-16 openai,catching fish,0.6666666666666666
+ViT-B-16 openai,choosing dress,0.7
+ViT-B-16 openai,climbing tree,0.2
+ViT-B-16 openai,drinking beer,0.23076923076923078
+ViT-B-16 openai,holding baby,0.46153846153846156
+ViT-B-16 openai,holding gun,0.2
+ViT-B-16 openai,leading team,0.7272727272727273
+ViT-B-16 openai,picking flower,0.16666666666666666
+ViT-B-32 laion2b_s34b_b79k,baking bread,0.6363636363636364
+ViT-B-32 laion2b_s34b_b79k,beading earrings,0.55
+ViT-B-32 laion2b_s34b_b79k,catching fish,0.5833333333333334
+ViT-B-32 laion2b_s34b_b79k,choosing dress,0.8
+ViT-B-32 laion2b_s34b_b79k,climbing tree,0.2
+ViT-B-32 laion2b_s34b_b79k,drinking beer,0.6153846153846154
+ViT-B-32 laion2b_s34b_b79k,holding baby,0.5384615384615384
+ViT-B-32 laion2b_s34b_b79k,holding gun,0.6
+ViT-B-32 laion2b_s34b_b79k,leading team,0.6363636363636364
+ViT-B-32 laion2b_s34b_b79k,picking flower,0.25
+ViT-B-32 laion400m_e31,baking bread,0.5454545454545454
+ViT-B-32 laion400m_e31,beading earrings,0.6
+ViT-B-32 laion400m_e31,catching fish,0.6666666666666666
+ViT-B-32 laion400m_e31,choosing dress,0.5
+ViT-B-32 laion400m_e31,climbing tree,0.3
+ViT-B-32 laion400m_e31,drinking beer,0.38461538461538464
+ViT-B-32 laion400m_e31,holding baby,0.46153846153846156
+ViT-B-32 laion400m_e31,holding gun,0.5
+ViT-B-32 laion400m_e31,leading team,0.5454545454545454
+ViT-B-32 laion400m_e31,picking flower,0.3333333333333333
+ViT-B-32 negCLIP.pt,baking bread,0.6363636363636364
+ViT-B-32 negCLIP.pt,beading earrings,0.5
+ViT-B-32 negCLIP.pt,catching fish,0.6666666666666666
+ViT-B-32 negCLIP.pt,choosing dress,0.5
+ViT-B-32 negCLIP.pt,climbing tree,0.2
+ViT-B-32 negCLIP.pt,drinking beer,0.23076923076923078
+ViT-B-32 negCLIP.pt,holding baby,0.46153846153846156
+ViT-B-32 negCLIP.pt,holding gun,0.3
+ViT-B-32 negCLIP.pt,leading team,0.6363636363636364
+ViT-B-32 negCLIP.pt,picking flower,0.3333333333333333
+ViT-B-32 openai,baking bread,0.5454545454545454
+ViT-B-32 openai,beading earrings,0.45
+ViT-B-32 openai,catching fish,0.5833333333333334
+ViT-B-32 openai,choosing dress,0.6
+ViT-B-32 openai,climbing tree,0.3
+ViT-B-32 openai,drinking beer,0.38461538461538464
+ViT-B-32 openai,holding baby,0.38461538461538464
+ViT-B-32 openai,holding gun,0.5
+ViT-B-32 openai,leading team,0.5454545454545454
+ViT-B-32 openai,picking flower,0.16666666666666666
+ViT-H-14 laion2b_s32b_b79k,baking bread,0.45454545454545453
+ViT-H-14 laion2b_s32b_b79k,beading earrings,0.4
+ViT-H-14 laion2b_s32b_b79k,catching fish,0.75
+ViT-H-14 laion2b_s32b_b79k,choosing dress,0.6
+ViT-H-14 laion2b_s32b_b79k,climbing tree,0.3
+ViT-H-14 laion2b_s32b_b79k,drinking beer,0.38461538461538464
+ViT-H-14 laion2b_s32b_b79k,holding baby,0.5384615384615384
+ViT-H-14 laion2b_s32b_b79k,holding gun,0.3
+ViT-H-14 laion2b_s32b_b79k,leading team,0.6363636363636364
+ViT-H-14 laion2b_s32b_b79k,picking flower,0.4166666666666667
+ViT-L-14 laion2b_s32b_b82k,baking bread,0.7272727272727273
+ViT-L-14 laion2b_s32b_b82k,beading earrings,0.3
+ViT-L-14 laion2b_s32b_b82k,catching fish,0.9166666666666666
+ViT-L-14 laion2b_s32b_b82k,choosing dress,0.6
+ViT-L-14 laion2b_s32b_b82k,climbing tree,0.4
+ViT-L-14 laion2b_s32b_b82k,drinking beer,0.38461538461538464
+ViT-L-14 laion2b_s32b_b82k,holding baby,0.5384615384615384
+ViT-L-14 laion2b_s32b_b82k,holding gun,0.3
+ViT-L-14 laion2b_s32b_b82k,leading team,0.36363636363636365
+ViT-L-14 laion2b_s32b_b82k,picking flower,0.16666666666666666
+ViT-L-14 openai,baking bread,0.6363636363636364
+ViT-L-14 openai,beading earrings,0.45
+ViT-L-14 openai,catching fish,0.75
+ViT-L-14 openai,choosing dress,0.8
+ViT-L-14 openai,climbing tree,0.4
+ViT-L-14 openai,drinking beer,0.3076923076923077
+ViT-L-14 openai,holding baby,0.6923076923076923
+ViT-L-14 openai,holding gun,0.5
+ViT-L-14 openai,leading team,0.45454545454545453
+ViT-L-14 openai,picking flower,0.08333333333333333
+ViT-L-14-336 openai,baking bread,0.5454545454545454
+ViT-L-14-336 openai,beading earrings,0.4
+ViT-L-14-336 openai,catching fish,0.75
+ViT-L-14-336 openai,choosing dress,0.7
+ViT-L-14-336 openai,climbing tree,0.4
+ViT-L-14-336 openai,drinking beer,0.38461538461538464
+ViT-L-14-336 openai,holding baby,0.6923076923076923
+ViT-L-14-336 openai,holding gun,0.6
+ViT-L-14-336 openai,leading team,0.5454545454545454
+ViT-L-14-336 openai,picking flower,0.08333333333333333
+coca_ViT-B-32 laion2b_s13b_b90k,baking bread,0.5454545454545454
+coca_ViT-B-32 laion2b_s13b_b90k,beading earrings,0.45
+coca_ViT-B-32 laion2b_s13b_b90k,catching fish,0.6666666666666666
+coca_ViT-B-32 laion2b_s13b_b90k,choosing dress,0.6
+coca_ViT-B-32 laion2b_s13b_b90k,climbing tree,0.5
+coca_ViT-B-32 laion2b_s13b_b90k,drinking beer,0.3076923076923077
+coca_ViT-B-32 laion2b_s13b_b90k,holding baby,0.5384615384615384
+coca_ViT-B-32 laion2b_s13b_b90k,holding gun,0.7
+coca_ViT-B-32 laion2b_s13b_b90k,leading team,0.5454545454545454
+coca_ViT-B-32 laion2b_s13b_b90k,picking flower,0.16666666666666666
+coca_ViT-B-32 mscoco_finetuned_laion2b_s13b_b90k,baking bread,0.45454545454545453
+coca_ViT-B-32 mscoco_finetuned_laion2b_s13b_b90k,beading earrings,0.5
+coca_ViT-B-32 mscoco_finetuned_laion2b_s13b_b90k,catching fish,0.75
+coca_ViT-B-32 mscoco_finetuned_laion2b_s13b_b90k,choosing dress,0.6
+coca_ViT-B-32 mscoco_finetuned_laion2b_s13b_b90k,climbing tree,0.4
+coca_ViT-B-32 mscoco_finetuned_laion2b_s13b_b90k,drinking beer,0.38461538461538464
+coca_ViT-B-32 mscoco_finetuned_laion2b_s13b_b90k,holding baby,0.3076923076923077
+coca_ViT-B-32 mscoco_finetuned_laion2b_s13b_b90k,holding gun,0.3
+coca_ViT-B-32 mscoco_finetuned_laion2b_s13b_b90k,leading team,0.5454545454545454
+coca_ViT-B-32 mscoco_finetuned_laion2b_s13b_b90k,picking flower,0.4166666666666667
+coca_ViT-L-14 laion2b_s13b_b90k,baking bread,0.6363636363636364
+coca_ViT-L-14 laion2b_s13b_b90k,beading earrings,0.3
+coca_ViT-L-14 laion2b_s13b_b90k,catching fish,0.75
+coca_ViT-L-14 laion2b_s13b_b90k,choosing dress,0.5
+coca_ViT-L-14 laion2b_s13b_b90k,climbing tree,0.2
+coca_ViT-L-14 laion2b_s13b_b90k,drinking beer,0.38461538461538464
+coca_ViT-L-14 laion2b_s13b_b90k,holding baby,0.5384615384615384
+coca_ViT-L-14 laion2b_s13b_b90k,holding gun,0.6
+coca_ViT-L-14 laion2b_s13b_b90k,leading team,0.6363636363636364
+coca_ViT-L-14 laion2b_s13b_b90k,picking flower,0.4166666666666667
+coca_ViT-L-14 mscoco_finetuned_laion2b_s13b_b90k,baking bread,0.36363636363636365
+coca_ViT-L-14 mscoco_finetuned_laion2b_s13b_b90k,beading earrings,0.35
+coca_ViT-L-14 mscoco_finetuned_laion2b_s13b_b90k,catching fish,0.6666666666666666
+coca_ViT-L-14 mscoco_finetuned_laion2b_s13b_b90k,choosing dress,0.3
+coca_ViT-L-14 mscoco_finetuned_laion2b_s13b_b90k,climbing tree,0.2
+coca_ViT-L-14 mscoco_finetuned_laion2b_s13b_b90k,drinking beer,0.3076923076923077
+coca_ViT-L-14 mscoco_finetuned_laion2b_s13b_b90k,holding baby,0.6153846153846154
+coca_ViT-L-14 mscoco_finetuned_laion2b_s13b_b90k,holding gun,0.4
+coca_ViT-L-14 mscoco_finetuned_laion2b_s13b_b90k,leading team,0.6363636363636364
+coca_ViT-L-14 mscoco_finetuned_laion2b_s13b_b90k,picking flower,0.4166666666666667
+dandelin/vilt-b32-finetuned-coco,baking bread,0.36363636363636365
+dandelin/vilt-b32-finetuned-coco,beading earrings,0.6
+dandelin/vilt-b32-finetuned-coco,catching fish,0.75
+dandelin/vilt-b32-finetuned-coco,choosing dress,0.4
+dandelin/vilt-b32-finetuned-coco,climbing tree,0.1
+dandelin/vilt-b32-finetuned-coco,drinking beer,0.5384615384615384
+dandelin/vilt-b32-finetuned-coco,holding baby,0.46153846153846156
+dandelin/vilt-b32-finetuned-coco,holding gun,0.2
+dandelin/vilt-b32-finetuned-coco,leading team,0.45454545454545453
+dandelin/vilt-b32-finetuned-coco,picking flower,0.25
+facebook/flava-full,baking bread,0.6363636363636364
+facebook/flava-full,beading earrings,0.4
+facebook/flava-full,catching fish,0.8333333333333334
+facebook/flava-full,choosing dress,0.6
+facebook/flava-full,climbing tree,0.2
+facebook/flava-full,drinking beer,0.46153846153846156
+facebook/flava-full,holding baby,0.6153846153846154
+facebook/flava-full,holding gun,0.6
+facebook/flava-full,leading team,0.36363636363636365
+facebook/flava-full,picking flower,0.16666666666666666
+kakaobrain/align-base,baking bread,0.7272727272727273
+kakaobrain/align-base,beading earrings,0.45
+kakaobrain/align-base,catching fish,0.75
+kakaobrain/align-base,choosing dress,0.3
+kakaobrain/align-base,climbing tree,0.4
+kakaobrain/align-base,drinking beer,0.5384615384615384
+kakaobrain/align-base,holding baby,0.23076923076923078
+kakaobrain/align-base,holding gun,0.5
+kakaobrain/align-base,leading team,0.7272727272727273
+kakaobrain/align-base,picking flower,0.75
+roberta-ViT-B-32 laion2b_s12b_b32k,baking bread,0.6363636363636364
+roberta-ViT-B-32 laion2b_s12b_b32k,beading earrings,0.4
+roberta-ViT-B-32 laion2b_s12b_b32k,catching fish,0.6666666666666666
+roberta-ViT-B-32 laion2b_s12b_b32k,choosing dress,0.6
+roberta-ViT-B-32 laion2b_s12b_b32k,climbing tree,0.2
+roberta-ViT-B-32 laion2b_s12b_b32k,drinking beer,0.15384615384615385
+roberta-ViT-B-32 laion2b_s12b_b32k,holding baby,0.46153846153846156
+roberta-ViT-B-32 laion2b_s12b_b32k,holding gun,0.7
+roberta-ViT-B-32 laion2b_s12b_b32k,leading team,0.6363636363636364
+roberta-ViT-B-32 laion2b_s12b_b32k,picking flower,0.25
+xlm-roberta-base-ViT-B-32 laion5b_s13b_b90k,baking bread,0.36363636363636365
+xlm-roberta-base-ViT-B-32 laion5b_s13b_b90k,beading earrings,0.45
+xlm-roberta-base-ViT-B-32 laion5b_s13b_b90k,catching fish,0.75
+xlm-roberta-base-ViT-B-32 laion5b_s13b_b90k,choosing dress,0.5
+xlm-roberta-base-ViT-B-32 laion5b_s13b_b90k,climbing tree,0.3
+xlm-roberta-base-ViT-B-32 laion5b_s13b_b90k,drinking beer,0.23076923076923078
+xlm-roberta-base-ViT-B-32 laion5b_s13b_b90k,holding baby,0.38461538461538464
+xlm-roberta-base-ViT-B-32 laion5b_s13b_b90k,holding gun,0.5
+xlm-roberta-base-ViT-B-32 laion5b_s13b_b90k,leading team,0.8181818181818182
+xlm-roberta-base-ViT-B-32 laion5b_s13b_b90k,picking flower,0.16666666666666666
+xlm-roberta-large-ViT-H-14 frozen_laion5b_s13b_b90k,baking bread,0.5454545454545454
+xlm-roberta-large-ViT-H-14 frozen_laion5b_s13b_b90k,beading earrings,0.45
+xlm-roberta-large-ViT-H-14 frozen_laion5b_s13b_b90k,catching fish,0.9166666666666666
+xlm-roberta-large-ViT-H-14 frozen_laion5b_s13b_b90k,choosing dress,0.5
+xlm-roberta-large-ViT-H-14 frozen_laion5b_s13b_b90k,climbing tree,0.2
+xlm-roberta-large-ViT-H-14 frozen_laion5b_s13b_b90k,drinking beer,0.3076923076923077
+xlm-roberta-large-ViT-H-14 frozen_laion5b_s13b_b90k,holding baby,0.46153846153846156
+xlm-roberta-large-ViT-H-14 frozen_laion5b_s13b_b90k,holding gun,0.3
+xlm-roberta-large-ViT-H-14 frozen_laion5b_s13b_b90k,leading team,0.8181818181818182
+xlm-roberta-large-ViT-H-14 frozen_laion5b_s13b_b90k,picking flower,0.3333333333333333
