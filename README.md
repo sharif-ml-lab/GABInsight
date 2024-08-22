@@ -1,5 +1,9 @@
 # GABDataset Experiments on Gender Bias in Vision-Language Models
 
+This repository accompanies the research on the Gender-Activity Binding (GAB) bias in Vision-Language Models (VLMs). The GAB bias refers to the tendency of VLMs to incorrectly associate certain activities with a gender based on ingrained stereotypes. This research introduces the GAB dataset, comprising approximately 5,500 AI-generated images depicting various activities performed by individuals of different genders. The dataset is designed to assess and quantify the extent of gender bias in VLMs, particularly in text-to-image and image-to-text retrieval tasks.
+
+Our experiments reveal that VLMs experience a significant drop in performance when the gender of the person performing an activity does not align with stereotypical expectations. Specifically, the presence of an unexpected gender performing a stereotyped activity leads to an average performance decline of about 13.2% in image-to-text retrieval tasks. Additionally, when both genders are present in the scene, the models are often biased toward associating the activity with the gender expected to perform it. The study also explores the bias in text encoders and their role in the gender-activity binding phenomenon.
+
 In this repository, we provide the code and dataset (GABDataset) used to examine gender bias in Vision-Language Models (VLMs) through various experiments described in the main paper. The repository is organized into three phases: **phaze1**, **phaze2**, and **phaze3**, with corresponding directories for each experiment.
 
 ## Repository Structure
