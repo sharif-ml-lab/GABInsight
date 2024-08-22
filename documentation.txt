@@ -1,0 +1,17 @@
+In this repository, we have prepared code alongside GABDataset to examine gender bias in Vision-Language Models (VLMs) through various experiments described in the main paper. We have categorized images into three phases—phaze1, phaze2, and phaze3—within this repository.
+
+We have set up four experiments using the GABDataset. Each directory within this repository corresponds to one of these experiments.
+
+BiasExperiment Directory:
+In this directory, for each phase, we have created two notebooks: one for conducting the experiment and another for aggregating and plotting the results. This experiment aims to measure the subject binding bias, as detailed in the paper.
+
+TextEncoderBiasExperiment:
+This directory contains two notebooks: one for performing the experiment and another for aggregating the results. This experiment focuses on measuring text encoder bias, as outlined in the paper.
+
+TextToImageRetrievalExperiment:
+Here, we have two notebooks: one for executing the experiment and another for aggregating and plotting the results. This experiment assesses the model's capability for text-to-image retrieval. Further details are provided in the paper.
+
+ActivityRetrievalExperiment:
+For each phase in this directory, two notebooks have been prepared: one for the experiment itself and another for aggregating and plotting the results. This experiment measures the model’s ability to differentiate and understand activities in a scene between similar actions. The specifics of this experiment are described in the paper.
+
+

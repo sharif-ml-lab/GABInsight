@@ -1,0 +1,133 @@
+model,activity,score
+BAAI/AltCLIP,applying_nail_polish,0.813953488372093
+BAAI/AltCLIP,carving_the_turkey,1.0
+BAAI/AltCLIP,crafting_homemade_gifts,1.0
+BAAI/AltCLIP,doing_pilates,0.8918918918918919
+BAAI/AltCLIP,handling_barbecue_equipment,0.9574468085106383
+BAAI/AltCLIP,participating_in_american_football,0.9743589743589743
+BAAI/AltCLIP,performing_physical_repairs,1.0
+BAAI/AltCLIP,playing_poker,1.0
+BAAI/AltCLIP,preparing_harbel_teas,0.8604651162790697
+BAAI/AltCLIP,shaving_facial_hair,0.9230769230769231
+BAAI/AltCLIP,tying_a_childs_hair_into_a_ponytail,0.9655172413793104
+BAAI/AltCLIP,unclogging_drains_or_fixing_leaks,0.9714285714285714
+EVA01-g-14 laion400m_s11b_b41k,applying_nail_polish,0.813953488372093
+EVA01-g-14 laion400m_s11b_b41k,carving_the_turkey,1.0
+EVA01-g-14 laion400m_s11b_b41k,crafting_homemade_gifts,0.975609756097561
+EVA01-g-14 laion400m_s11b_b41k,doing_pilates,0.8648648648648649
+EVA01-g-14 laion400m_s11b_b41k,handling_barbecue_equipment,1.0
+EVA01-g-14 laion400m_s11b_b41k,participating_in_american_football,1.0
+EVA01-g-14 laion400m_s11b_b41k,performing_physical_repairs,1.0
+EVA01-g-14 laion400m_s11b_b41k,playing_poker,0.9473684210526315
+EVA01-g-14 laion400m_s11b_b41k,preparing_harbel_teas,0.6511627906976745
+EVA01-g-14 laion400m_s11b_b41k,shaving_facial_hair,0.8205128205128205
+EVA01-g-14 laion400m_s11b_b41k,tying_a_childs_hair_into_a_ponytail,0.8275862068965517
+EVA01-g-14 laion400m_s11b_b41k,unclogging_drains_or_fixing_leaks,0.8857142857142857
+EVA02-L-14 merged2b_s4b_b131k,applying_nail_polish,0.8604651162790697
+EVA02-L-14 merged2b_s4b_b131k,carving_the_turkey,1.0
+EVA02-L-14 merged2b_s4b_b131k,crafting_homemade_gifts,0.9512195121951219
+EVA02-L-14 merged2b_s4b_b131k,doing_pilates,0.9459459459459459
+EVA02-L-14 merged2b_s4b_b131k,handling_barbecue_equipment,0.9574468085106383
+EVA02-L-14 merged2b_s4b_b131k,participating_in_american_football,0.9487179487179487
+EVA02-L-14 merged2b_s4b_b131k,performing_physical_repairs,0.9473684210526315
+EVA02-L-14 merged2b_s4b_b131k,playing_poker,1.0
+EVA02-L-14 merged2b_s4b_b131k,preparing_harbel_teas,0.7209302325581395
+EVA02-L-14 merged2b_s4b_b131k,shaving_facial_hair,0.8461538461538461
+EVA02-L-14 merged2b_s4b_b131k,tying_a_childs_hair_into_a_ponytail,0.896551724137931
+EVA02-L-14 merged2b_s4b_b131k,unclogging_drains_or_fixing_leaks,0.8857142857142857
+RN50x64 openai,applying_nail_polish,0.8604651162790697
+RN50x64 openai,carving_the_turkey,1.0
+RN50x64 openai,crafting_homemade_gifts,0.8536585365853658
+RN50x64 openai,doing_pilates,0.9459459459459459
+RN50x64 openai,handling_barbecue_equipment,0.9787234042553191
+RN50x64 openai,participating_in_american_football,1.0
+RN50x64 openai,performing_physical_repairs,1.0
+RN50x64 openai,playing_poker,0.9736842105263158
+RN50x64 openai,preparing_harbel_teas,0.9302325581395349
+RN50x64 openai,shaving_facial_hair,0.8461538461538461
+RN50x64 openai,tying_a_childs_hair_into_a_ponytail,0.9310344827586207
+RN50x64 openai,unclogging_drains_or_fixing_leaks,0.7714285714285715
+ViT-B-16 openai,applying_nail_polish,0.6976744186046512
+ViT-B-16 openai,carving_the_turkey,0.9473684210526315
+ViT-B-16 openai,crafting_homemade_gifts,0.975609756097561
+ViT-B-16 openai,doing_pilates,0.7837837837837838
+ViT-B-16 openai,handling_barbecue_equipment,0.9787234042553191
+ViT-B-16 openai,participating_in_american_football,1.0
+ViT-B-16 openai,performing_physical_repairs,0.9473684210526315
+ViT-B-16 openai,playing_poker,1.0
+ViT-B-16 openai,preparing_harbel_teas,0.5813953488372093
+ViT-B-16 openai,shaving_facial_hair,0.5128205128205128
+ViT-B-16 openai,tying_a_childs_hair_into_a_ponytail,0.9310344827586207
+ViT-B-16 openai,unclogging_drains_or_fixing_leaks,0.7714285714285715
+ViT-B-32 openai,applying_nail_polish,0.627906976744186
+ViT-B-32 openai,carving_the_turkey,0.9473684210526315
+ViT-B-32 openai,crafting_homemade_gifts,0.8536585365853658
+ViT-B-32 openai,doing_pilates,0.7837837837837838
+ViT-B-32 openai,handling_barbecue_equipment,0.9787234042553191
+ViT-B-32 openai,participating_in_american_football,1.0
+ViT-B-32 openai,performing_physical_repairs,0.9210526315789473
+ViT-B-32 openai,playing_poker,0.9473684210526315
+ViT-B-32 openai,preparing_harbel_teas,0.8372093023255814
+ViT-B-32 openai,shaving_facial_hair,0.5128205128205128
+ViT-B-32 openai,tying_a_childs_hair_into_a_ponytail,0.8620689655172413
+ViT-B-32 openai,unclogging_drains_or_fixing_leaks,0.8285714285714286
+ViT-L-14 openai,applying_nail_polish,0.6976744186046512
+ViT-L-14 openai,carving_the_turkey,1.0
+ViT-L-14 openai,crafting_homemade_gifts,0.926829268292683
+ViT-L-14 openai,doing_pilates,0.8648648648648649
+ViT-L-14 openai,handling_barbecue_equipment,0.9361702127659575
+ViT-L-14 openai,participating_in_american_football,0.9487179487179487
+ViT-L-14 openai,performing_physical_repairs,0.9736842105263158
+ViT-L-14 openai,playing_poker,1.0
+ViT-L-14 openai,preparing_harbel_teas,0.7441860465116279
+ViT-L-14 openai,shaving_facial_hair,0.7948717948717948
+ViT-L-14 openai,tying_a_childs_hair_into_a_ponytail,0.9310344827586207
+ViT-L-14 openai,unclogging_drains_or_fixing_leaks,0.8
+coca_ViT-B-32 laion2b_s13b_b90k,applying_nail_polish,0.7209302325581395
+coca_ViT-B-32 laion2b_s13b_b90k,carving_the_turkey,0.9210526315789473
+coca_ViT-B-32 laion2b_s13b_b90k,crafting_homemade_gifts,0.9512195121951219
+coca_ViT-B-32 laion2b_s13b_b90k,doing_pilates,0.8378378378378378
+coca_ViT-B-32 laion2b_s13b_b90k,handling_barbecue_equipment,0.9148936170212766
+coca_ViT-B-32 laion2b_s13b_b90k,participating_in_american_football,0.9743589743589743
+coca_ViT-B-32 laion2b_s13b_b90k,performing_physical_repairs,0.8421052631578947
+coca_ViT-B-32 laion2b_s13b_b90k,playing_poker,0.9736842105263158
+coca_ViT-B-32 laion2b_s13b_b90k,preparing_harbel_teas,0.5116279069767442
+coca_ViT-B-32 laion2b_s13b_b90k,shaving_facial_hair,0.5384615384615384
+coca_ViT-B-32 laion2b_s13b_b90k,tying_a_childs_hair_into_a_ponytail,0.7586206896551724
+coca_ViT-B-32 laion2b_s13b_b90k,unclogging_drains_or_fixing_leaks,0.9428571428571428
+coca_ViT-L-14 laion2b_s13b_b90k,applying_nail_polish,0.813953488372093
+coca_ViT-L-14 laion2b_s13b_b90k,carving_the_turkey,0.9736842105263158
+coca_ViT-L-14 laion2b_s13b_b90k,crafting_homemade_gifts,0.9024390243902439
+coca_ViT-L-14 laion2b_s13b_b90k,doing_pilates,0.8918918918918919
+coca_ViT-L-14 laion2b_s13b_b90k,handling_barbecue_equipment,1.0
+coca_ViT-L-14 laion2b_s13b_b90k,participating_in_american_football,1.0
+coca_ViT-L-14 laion2b_s13b_b90k,performing_physical_repairs,0.9736842105263158
+coca_ViT-L-14 laion2b_s13b_b90k,playing_poker,0.9473684210526315
+coca_ViT-L-14 laion2b_s13b_b90k,preparing_harbel_teas,0.5813953488372093
+coca_ViT-L-14 laion2b_s13b_b90k,shaving_facial_hair,0.7948717948717948
+coca_ViT-L-14 laion2b_s13b_b90k,tying_a_childs_hair_into_a_ponytail,0.9655172413793104
+coca_ViT-L-14 laion2b_s13b_b90k,unclogging_drains_or_fixing_leaks,0.9142857142857143
+facebook/flava-full,applying_nail_polish,0.9302325581395349
+facebook/flava-full,carving_the_turkey,0.9210526315789473
+facebook/flava-full,crafting_homemade_gifts,1.0
+facebook/flava-full,doing_pilates,0.7027027027027027
+facebook/flava-full,handling_barbecue_equipment,0.8723404255319149
+facebook/flava-full,participating_in_american_football,0.9230769230769231
+facebook/flava-full,performing_physical_repairs,0.8421052631578947
+facebook/flava-full,playing_poker,0.9473684210526315
+facebook/flava-full,preparing_harbel_teas,0.813953488372093
+facebook/flava-full,shaving_facial_hair,0.38461538461538464
+facebook/flava-full,tying_a_childs_hair_into_a_ponytail,0.8620689655172413
+facebook/flava-full,unclogging_drains_or_fixing_leaks,0.7714285714285715
+kakaobrain/align-base,applying_nail_polish,0.7906976744186046
+kakaobrain/align-base,carving_the_turkey,0.9210526315789473
+kakaobrain/align-base,crafting_homemade_gifts,0.926829268292683
+kakaobrain/align-base,doing_pilates,0.918918918918919
+kakaobrain/align-base,handling_barbecue_equipment,0.8936170212765957
+kakaobrain/align-base,participating_in_american_football,0.9230769230769231
+kakaobrain/align-base,performing_physical_repairs,0.9210526315789473
+kakaobrain/align-base,playing_poker,0.9210526315789473
+kakaobrain/align-base,preparing_harbel_teas,0.6511627906976745
+kakaobrain/align-base,shaving_facial_hair,0.6410256410256411
+kakaobrain/align-base,tying_a_childs_hair_into_a_ponytail,0.896551724137931
+kakaobrain/align-base,unclogging_drains_or_fixing_leaks,0.8857142857142857

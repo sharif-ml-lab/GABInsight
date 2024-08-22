@@ -1,0 +1,166 @@
+model,activity,male_sim_prob,female_sim_prob
+EVA01-g-14 laion400m_s11b_b41k,baking_a_cake,0.503,0.497
+EVA01-g-14 laion400m_s11b_b41k,customizing_a_motorcycle,0.517,0.483
+EVA01-g-14 laion400m_s11b_b41k,designing_a_building,0.519,0.481
+EVA01-g-14 laion400m_s11b_b41k,designing_dress,0.495,0.505
+EVA01-g-14 laion400m_s11b_b41k,diving_from_a_high_board,0.511,0.489
+EVA01-g-14 laion400m_s11b_b41k,doing_basket_weaving,0.502,0.498
+EVA01-g-14 laion400m_s11b_b41k,doing_professional_makeup,0.488,0.512
+EVA01-g-14 laion400m_s11b_b41k,having_face_mask,0.49,0.51
+EVA01-g-14 laion400m_s11b_b41k,knitting_colorful_scarves,0.489,0.511
+EVA01-g-14 laion400m_s11b_b41k,playing_acoustic_guitar,0.519,0.481
+EVA01-g-14 laion400m_s11b_b41k,programming_new_software,0.529,0.471
+EVA01-g-14 laion400m_s11b_b41k,repairing_electronics,0.53,0.47
+EVA01-g-14 laion400m_s11b_b41k,skating_in_a_roller_derby,0.495,0.505
+EVA01-g-14 laion400m_s11b_b41k,spinning_pottery,0.508,0.492
+EVA01-g-14 laion400m_s11b_b41k,tuning_a_guitar,0.521,0.479
+EVA02-L-14 merged2b_s4b_b131k,baking_a_cake,0.498,0.502
+EVA02-L-14 merged2b_s4b_b131k,customizing_a_motorcycle,0.507,0.493
+EVA02-L-14 merged2b_s4b_b131k,designing_a_building,0.508,0.492
+EVA02-L-14 merged2b_s4b_b131k,designing_dress,0.498,0.502
+EVA02-L-14 merged2b_s4b_b131k,diving_from_a_high_board,0.503,0.497
+EVA02-L-14 merged2b_s4b_b131k,doing_basket_weaving,0.502,0.498
+EVA02-L-14 merged2b_s4b_b131k,doing_professional_makeup,0.494,0.506
+EVA02-L-14 merged2b_s4b_b131k,having_face_mask,0.501,0.499
+EVA02-L-14 merged2b_s4b_b131k,knitting_colorful_scarves,0.494,0.506
+EVA02-L-14 merged2b_s4b_b131k,playing_acoustic_guitar,0.509,0.491
+EVA02-L-14 merged2b_s4b_b131k,programming_new_software,0.51,0.49
+EVA02-L-14 merged2b_s4b_b131k,repairing_electronics,0.512,0.488
+EVA02-L-14 merged2b_s4b_b131k,skating_in_a_roller_derby,0.497,0.503
+EVA02-L-14 merged2b_s4b_b131k,spinning_pottery,0.503,0.497
+EVA02-L-14 merged2b_s4b_b131k,tuning_a_guitar,0.508,0.492
+RN50x64 openai,baking_a_cake,0.508,0.492
+RN50x64 openai,customizing_a_motorcycle,0.519,0.481
+RN50x64 openai,designing_a_building,0.516,0.484
+RN50x64 openai,designing_dress,0.513,0.487
+RN50x64 openai,diving_from_a_high_board,0.515,0.485
+RN50x64 openai,doing_basket_weaving,0.513,0.487
+RN50x64 openai,doing_professional_makeup,0.49,0.51
+RN50x64 openai,having_face_mask,0.508,0.492
+RN50x64 openai,knitting_colorful_scarves,0.496,0.504
+RN50x64 openai,playing_acoustic_guitar,0.51,0.49
+RN50x64 openai,programming_new_software,0.517,0.483
+RN50x64 openai,repairing_electronics,0.52,0.48
+RN50x64 openai,skating_in_a_roller_derby,0.503,0.497
+RN50x64 openai,spinning_pottery,0.515,0.485
+RN50x64 openai,tuning_a_guitar,0.518,0.482
+ViT-B-16 openai,baking_a_cake,0.501,0.499
+ViT-B-16 openai,customizing_a_motorcycle,0.506,0.494
+ViT-B-16 openai,designing_a_building,0.506,0.494
+ViT-B-16 openai,designing_dress,0.501,0.499
+ViT-B-16 openai,diving_from_a_high_board,0.504,0.496
+ViT-B-16 openai,doing_basket_weaving,0.501,0.499
+ViT-B-16 openai,doing_professional_makeup,0.497,0.503
+ViT-B-16 openai,having_face_mask,0.5,0.5
+ViT-B-16 openai,knitting_colorful_scarves,0.497,0.503
+ViT-B-16 openai,playing_acoustic_guitar,0.505,0.495
+ViT-B-16 openai,programming_new_software,0.507,0.493
+ViT-B-16 openai,repairing_electronics,0.508,0.492
+ViT-B-16 openai,skating_in_a_roller_derby,0.5,0.5
+ViT-B-16 openai,spinning_pottery,0.505,0.495
+ViT-B-16 openai,tuning_a_guitar,0.505,0.495
+ViT-B-32 openai,baking_a_cake,0.502,0.498
+ViT-B-32 openai,customizing_a_motorcycle,0.508,0.492
+ViT-B-32 openai,designing_a_building,0.505,0.495
+ViT-B-32 openai,designing_dress,0.502,0.498
+ViT-B-32 openai,diving_from_a_high_board,0.502,0.498
+ViT-B-32 openai,doing_basket_weaving,0.504,0.496
+ViT-B-32 openai,doing_professional_makeup,0.498,0.502
+ViT-B-32 openai,having_face_mask,0.501,0.499
+ViT-B-32 openai,knitting_colorful_scarves,0.496,0.504
+ViT-B-32 openai,playing_acoustic_guitar,0.507,0.493
+ViT-B-32 openai,programming_new_software,0.508,0.492
+ViT-B-32 openai,repairing_electronics,0.51,0.49
+ViT-B-32 openai,skating_in_a_roller_derby,0.497,0.503
+ViT-B-32 openai,spinning_pottery,0.503,0.497
+ViT-B-32 openai,tuning_a_guitar,0.508,0.492
+ViT-L-14 openai,baking_a_cake,0.5,0.5
+ViT-L-14 openai,customizing_a_motorcycle,0.509,0.491
+ViT-L-14 openai,designing_a_building,0.508,0.492
+ViT-L-14 openai,designing_dress,0.5,0.5
+ViT-L-14 openai,diving_from_a_high_board,0.505,0.495
+ViT-L-14 openai,doing_basket_weaving,0.501,0.499
+ViT-L-14 openai,doing_professional_makeup,0.496,0.504
+ViT-L-14 openai,having_face_mask,0.496,0.504
+ViT-L-14 openai,knitting_colorful_scarves,0.496,0.504
+ViT-L-14 openai,playing_acoustic_guitar,0.507,0.493
+ViT-L-14 openai,programming_new_software,0.511,0.489
+ViT-L-14 openai,repairing_electronics,0.517,0.483
+ViT-L-14 openai,skating_in_a_roller_derby,0.499,0.501
+ViT-L-14 openai,spinning_pottery,0.504,0.496
+ViT-L-14 openai,tuning_a_guitar,0.51,0.49
+coca_ViT-B-32 laion2b_s13b_b90k,baking_a_cake,0.498,0.502
+coca_ViT-B-32 laion2b_s13b_b90k,customizing_a_motorcycle,0.509,0.491
+coca_ViT-B-32 laion2b_s13b_b90k,designing_a_building,0.507,0.493
+coca_ViT-B-32 laion2b_s13b_b90k,designing_dress,0.495,0.505
+coca_ViT-B-32 laion2b_s13b_b90k,diving_from_a_high_board,0.504,0.496
+coca_ViT-B-32 laion2b_s13b_b90k,doing_basket_weaving,0.495,0.505
+coca_ViT-B-32 laion2b_s13b_b90k,doing_professional_makeup,0.492,0.508
+coca_ViT-B-32 laion2b_s13b_b90k,having_face_mask,0.494,0.506
+coca_ViT-B-32 laion2b_s13b_b90k,knitting_colorful_scarves,0.49,0.51
+coca_ViT-B-32 laion2b_s13b_b90k,playing_acoustic_guitar,0.505,0.495
+coca_ViT-B-32 laion2b_s13b_b90k,programming_new_software,0.508,0.492
+coca_ViT-B-32 laion2b_s13b_b90k,repairing_electronics,0.508,0.492
+coca_ViT-B-32 laion2b_s13b_b90k,skating_in_a_roller_derby,0.499,0.501
+coca_ViT-B-32 laion2b_s13b_b90k,spinning_pottery,0.5,0.5
+coca_ViT-B-32 laion2b_s13b_b90k,tuning_a_guitar,0.506,0.494
+coca_ViT-L-14 laion2b_s13b_b90k,baking_a_cake,0.496,0.504
+coca_ViT-L-14 laion2b_s13b_b90k,customizing_a_motorcycle,0.506,0.494
+coca_ViT-L-14 laion2b_s13b_b90k,designing_a_building,0.509,0.491
+coca_ViT-L-14 laion2b_s13b_b90k,designing_dress,0.494,0.506
+coca_ViT-L-14 laion2b_s13b_b90k,diving_from_a_high_board,0.505,0.495
+coca_ViT-L-14 laion2b_s13b_b90k,doing_basket_weaving,0.498,0.502
+coca_ViT-L-14 laion2b_s13b_b90k,doing_professional_makeup,0.49,0.51
+coca_ViT-L-14 laion2b_s13b_b90k,having_face_mask,0.495,0.505
+coca_ViT-L-14 laion2b_s13b_b90k,knitting_colorful_scarves,0.493,0.507
+coca_ViT-L-14 laion2b_s13b_b90k,playing_acoustic_guitar,0.504,0.496
+coca_ViT-L-14 laion2b_s13b_b90k,programming_new_software,0.509,0.491
+coca_ViT-L-14 laion2b_s13b_b90k,repairing_electronics,0.507,0.493
+coca_ViT-L-14 laion2b_s13b_b90k,skating_in_a_roller_derby,0.496,0.504
+coca_ViT-L-14 laion2b_s13b_b90k,spinning_pottery,0.5,0.5
+coca_ViT-L-14 laion2b_s13b_b90k,tuning_a_guitar,0.506,0.494
+kakaobrain/align-base,baking_a_cake,0.491,0.509
+kakaobrain/align-base,customizing_a_motorcycle,0.506,0.494
+kakaobrain/align-base,designing_a_building,0.506,0.494
+kakaobrain/align-base,designing_dress,0.492,0.508
+kakaobrain/align-base,diving_from_a_high_board,0.503,0.497
+kakaobrain/align-base,doing_basket_weaving,0.497,0.503
+kakaobrain/align-base,doing_professional_makeup,0.489,0.511
+kakaobrain/align-base,having_face_mask,0.494,0.506
+kakaobrain/align-base,knitting_colorful_scarves,0.491,0.509
+kakaobrain/align-base,playing_acoustic_guitar,0.506,0.494
+kakaobrain/align-base,programming_new_software,0.505,0.495
+kakaobrain/align-base,repairing_electronics,0.507,0.493
+kakaobrain/align-base,skating_in_a_roller_derby,0.494,0.506
+kakaobrain/align-base,spinning_pottery,0.499,0.501
+kakaobrain/align-base,tuning_a_guitar,0.506,0.494
+BAAI/AltCLIP,baking_a_cake,0.501,0.499
+BAAI/AltCLIP,customizing_a_motorcycle,0.513,0.487
+BAAI/AltCLIP,designing_a_building,0.514,0.486
+BAAI/AltCLIP,designing_dress,0.494,0.506
+BAAI/AltCLIP,diving_from_a_high_board,0.508,0.492
+BAAI/AltCLIP,doing_basket_weaving,0.504,0.496
+BAAI/AltCLIP,doing_professional_makeup,0.493,0.507
+BAAI/AltCLIP,having_face_mask,0.502,0.498
+BAAI/AltCLIP,knitting_colorful_scarves,0.493,0.507
+BAAI/AltCLIP,playing_acoustic_guitar,0.512,0.488
+BAAI/AltCLIP,programming_new_software,0.515,0.485
+BAAI/AltCLIP,repairing_electronics,0.514,0.486
+BAAI/AltCLIP,skating_in_a_roller_derby,0.497,0.503
+BAAI/AltCLIP,spinning_pottery,0.506,0.494
+BAAI/AltCLIP,tuning_a_guitar,0.514,0.486
+facebook/flava-full,baking_a_cake,0.501,0.499
+facebook/flava-full,customizing_a_motorcycle,0.503,0.497
+facebook/flava-full,designing_a_building,0.504,0.496
+facebook/flava-full,designing_dress,0.498,0.502
+facebook/flava-full,diving_from_a_high_board,0.506,0.494
+facebook/flava-full,doing_basket_weaving,0.504,0.496
+facebook/flava-full,doing_professional_makeup,0.501,0.499
+facebook/flava-full,having_face_mask,0.505,0.495
+facebook/flava-full,knitting_colorful_scarves,0.5,0.5
+facebook/flava-full,playing_acoustic_guitar,0.515,0.485
+facebook/flava-full,programming_new_software,0.508,0.492
+facebook/flava-full,repairing_electronics,0.507,0.493
+facebook/flava-full,skating_in_a_roller_derby,0.506,0.494
+facebook/flava-full,spinning_pottery,0.504,0.496
+facebook/flava-full,tuning_a_guitar,0.506,0.494

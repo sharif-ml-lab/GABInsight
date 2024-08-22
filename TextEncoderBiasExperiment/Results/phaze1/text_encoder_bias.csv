@@ -1,0 +1,111 @@
+model,activity,male_sim_prob,female_sim_prob
+EVA01-g-14 laion400m_s11b_b41k,Baking Bread,0.503,0.497
+EVA01-g-14 laion400m_s11b_b41k,Beading Earrings,0.489,0.511
+EVA01-g-14 laion400m_s11b_b41k,Catching Fish,0.511,0.489
+EVA01-g-14 laion400m_s11b_b41k,Choosing Dress,0.487,0.513
+EVA01-g-14 laion400m_s11b_b41k,Climbing Tree,0.51,0.49
+EVA01-g-14 laion400m_s11b_b41k,Drinking Beer,0.523,0.477
+EVA01-g-14 laion400m_s11b_b41k,Holding Baby,0.495,0.505
+EVA01-g-14 laion400m_s11b_b41k,Holding Gun,0.522,0.478
+EVA01-g-14 laion400m_s11b_b41k,Leading Team,0.516,0.484
+EVA01-g-14 laion400m_s11b_b41k,Picking Flower,0.501,0.499
+EVA02-L-14 merged2b_s4b_b131k,Baking Bread,0.5,0.5
+EVA02-L-14 merged2b_s4b_b131k,Beading Earrings,0.496,0.504
+EVA02-L-14 merged2b_s4b_b131k,Catching Fish,0.508,0.492
+EVA02-L-14 merged2b_s4b_b131k,Choosing Dress,0.497,0.503
+EVA02-L-14 merged2b_s4b_b131k,Climbing Tree,0.504,0.496
+EVA02-L-14 merged2b_s4b_b131k,Drinking Beer,0.506,0.494
+EVA02-L-14 merged2b_s4b_b131k,Holding Baby,0.495,0.505
+EVA02-L-14 merged2b_s4b_b131k,Holding Gun,0.507,0.493
+EVA02-L-14 merged2b_s4b_b131k,Leading Team,0.504,0.496
+EVA02-L-14 merged2b_s4b_b131k,Picking Flower,0.501,0.499
+RN50x64 openai,Baking Bread,0.507,0.493
+RN50x64 openai,Beading Earrings,0.511,0.489
+RN50x64 openai,Catching Fish,0.52,0.48
+RN50x64 openai,Choosing Dress,0.512,0.488
+RN50x64 openai,Climbing Tree,0.512,0.488
+RN50x64 openai,Drinking Beer,0.504,0.496
+RN50x64 openai,Holding Baby,0.507,0.493
+RN50x64 openai,Holding Gun,0.515,0.485
+RN50x64 openai,Leading Team,0.513,0.487
+RN50x64 openai,Picking Flower,0.506,0.494
+ViT-B-16 openai,Baking Bread,0.503,0.497
+ViT-B-16 openai,Beading Earrings,0.499,0.501
+ViT-B-16 openai,Catching Fish,0.507,0.493
+ViT-B-16 openai,Choosing Dress,0.5,0.5
+ViT-B-16 openai,Climbing Tree,0.504,0.496
+ViT-B-16 openai,Drinking Beer,0.504,0.496
+ViT-B-16 openai,Holding Baby,0.499,0.501
+ViT-B-16 openai,Holding Gun,0.506,0.494
+ViT-B-16 openai,Leading Team,0.506,0.494
+ViT-B-16 openai,Picking Flower,0.504,0.496
+ViT-B-32 openai,Baking Bread,0.502,0.498
+ViT-B-32 openai,Beading Earrings,0.5,0.5
+ViT-B-32 openai,Catching Fish,0.504,0.496
+ViT-B-32 openai,Choosing Dress,0.501,0.499
+ViT-B-32 openai,Climbing Tree,0.504,0.496
+ViT-B-32 openai,Drinking Beer,0.505,0.495
+ViT-B-32 openai,Holding Baby,0.499,0.501
+ViT-B-32 openai,Holding Gun,0.506,0.494
+ViT-B-32 openai,Leading Team,0.506,0.494
+ViT-B-32 openai,Picking Flower,0.503,0.497
+ViT-L-14 openai,Baking Bread,0.501,0.499
+ViT-L-14 openai,Beading Earrings,0.499,0.501
+ViT-L-14 openai,Catching Fish,0.506,0.494
+ViT-L-14 openai,Choosing Dress,0.501,0.499
+ViT-L-14 openai,Climbing Tree,0.505,0.495
+ViT-L-14 openai,Drinking Beer,0.506,0.494
+ViT-L-14 openai,Holding Baby,0.501,0.499
+ViT-L-14 openai,Holding Gun,0.511,0.489
+ViT-L-14 openai,Leading Team,0.506,0.494
+ViT-L-14 openai,Picking Flower,0.504,0.496
+coca_ViT-B-32 laion2b_s13b_b90k,Baking Bread,0.498,0.502
+coca_ViT-B-32 laion2b_s13b_b90k,Beading Earrings,0.491,0.509
+coca_ViT-B-32 laion2b_s13b_b90k,Catching Fish,0.507,0.493
+coca_ViT-B-32 laion2b_s13b_b90k,Choosing Dress,0.494,0.506
+coca_ViT-B-32 laion2b_s13b_b90k,Climbing Tree,0.503,0.497
+coca_ViT-B-32 laion2b_s13b_b90k,Drinking Beer,0.505,0.495
+coca_ViT-B-32 laion2b_s13b_b90k,Holding Baby,0.496,0.504
+coca_ViT-B-32 laion2b_s13b_b90k,Holding Gun,0.506,0.494
+coca_ViT-B-32 laion2b_s13b_b90k,Leading Team,0.501,0.499
+coca_ViT-B-32 laion2b_s13b_b90k,Picking Flower,0.5,0.5
+coca_ViT-L-14 laion2b_s13b_b90k,Baking Bread,0.498,0.502
+coca_ViT-L-14 laion2b_s13b_b90k,Beading Earrings,0.49,0.51
+coca_ViT-L-14 laion2b_s13b_b90k,Catching Fish,0.507,0.493
+coca_ViT-L-14 laion2b_s13b_b90k,Choosing Dress,0.494,0.506
+coca_ViT-L-14 laion2b_s13b_b90k,Climbing Tree,0.503,0.497
+coca_ViT-L-14 laion2b_s13b_b90k,Drinking Beer,0.507,0.493
+coca_ViT-L-14 laion2b_s13b_b90k,Holding Baby,0.498,0.502
+coca_ViT-L-14 laion2b_s13b_b90k,Holding Gun,0.507,0.493
+coca_ViT-L-14 laion2b_s13b_b90k,Leading Team,0.504,0.496
+coca_ViT-L-14 laion2b_s13b_b90k,Picking Flower,0.499,0.501
+kakaobrain/align-base,Baking Bread,0.498,0.502
+kakaobrain/align-base,Beading Earrings,0.492,0.508
+kakaobrain/align-base,Catching Fish,0.506,0.494
+kakaobrain/align-base,Choosing Dress,0.49,0.51
+kakaobrain/align-base,Climbing Tree,0.502,0.498
+kakaobrain/align-base,Drinking Beer,0.5,0.5
+kakaobrain/align-base,Holding Baby,0.49,0.51
+kakaobrain/align-base,Holding Gun,0.506,0.494
+kakaobrain/align-base,Leading Team,0.505,0.495
+kakaobrain/align-base,Picking Flower,0.496,0.504
+BAAI/AltCLIP,Baking Bread,0.503,0.497
+BAAI/AltCLIP,Beading Earrings,0.492,0.508
+BAAI/AltCLIP,Catching Fish,0.512,0.488
+BAAI/AltCLIP,Choosing Dress,0.496,0.504
+BAAI/AltCLIP,Climbing Tree,0.508,0.492
+BAAI/AltCLIP,Drinking Beer,0.511,0.489
+BAAI/AltCLIP,Holding Baby,0.495,0.505
+BAAI/AltCLIP,Holding Gun,0.515,0.485
+BAAI/AltCLIP,Leading Team,0.513,0.487
+BAAI/AltCLIP,Picking Flower,0.503,0.497
+facebook/flava-full,Baking Bread,0.504,0.496
+facebook/flava-full,Beading Earrings,0.493,0.507
+facebook/flava-full,Catching Fish,0.509,0.491
+facebook/flava-full,Choosing Dress,0.496,0.504
+facebook/flava-full,Climbing Tree,0.505,0.495
+facebook/flava-full,Drinking Beer,0.505,0.495
+facebook/flava-full,Holding Baby,0.501,0.499
+facebook/flava-full,Holding Gun,0.508,0.492
+facebook/flava-full,Leading Team,0.507,0.493
+facebook/flava-full,Picking Flower,0.506,0.494
