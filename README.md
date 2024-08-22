@@ -44,8 +44,14 @@ Each phase represents a distinct set of images used in the experiments.
 ## How to Use
 
 1. Clone this repository to your local machine.
-2. Navigate to the directory of the experiment you wish to explore.
-3. Open the corresponding experiment notebook to run the experiment.
-4. Use the results notebook to aggregate and visualize the results.
+2. Download and unzip the dataset by running the following commands:
+    ```bash
+    cd GABInsight
+    gdown https://drive.google.com/uc?id=13qeOuszF52b8F7Bkvxg5GEEHEl_7obzM
+    unzip phazes.zip
+    ```
+3. Navigate to the directory of the experiment you wish to explore.
+4. Open the corresponding experiment notebook to run the experiment.
+5. Use the results notebook to aggregate and visualize the results.
 
 For detailed information on each experiment, refer to the main paper associated with this repository.
