@@ -10,56 +10,91 @@ Below is an overview of the creation process of the GAB dataset and the empirica
 
 In this repository, we provide the code and dataset (GABDataset) used to examine gender bias in Vision-Language Models (VLMs) through various experiments described in the main paper. The repository is organized into three phases: **phaze1**, **phaze2**, and **phaze3**, with corresponding directories for each experiment.
 
-## Repository Structure
 
-### 1. **BiasExperiment Directory**
+## Repository Manual
 
-This directory contains the notebooks for measuring subject binding bias as detailed in the paper. For each phase (phaze1, phaze2, phaze3), you will find:
+### Prerequisites
 
-- **Experiment Notebook:** Used to conduct the experiment.
-- **Results Notebook:** Used to aggregate and plot the results.
+Install Libraries
+```bash
+pip install -r requirements.txt
+```
 
-### 2. **TextEncoderBiasExperiment Directory**
+Download Dataset
 
-This directory focuses on measuring text encoder bias. It includes:
+```bash
+cd GABInsight
+gdown https://drive.google.com/uc?id=13qeOuszF52b8F7Bkvxg5GEEHEl_7obzM
+unzip phazes.zip
+```
 
-- **Experiment Notebook:** Used to perform the experiment.
-- **Results Notebook:** Used to aggregate the results.
 
-### 3. **TextToImageRetrievalExperiment Directory**
+### 1. **Experiment Pipelines**
 
-In this directory, we assess the model's capability for text-to-image retrieval. It includes:
+#### 1.1 **BiasExperiment**
 
-- **Experiment Notebook:** Used to execute the experiment.
-- **Results Notebook:** Used to aggregate and plot the results.
+```
+python main.py --space experiment --task bias --gpath <unzipped_dataset_path> --opath <output_path>
+```
 
-### 4. **ActivityRetrievalExperiment Directory**
+#### 1.2 **TextEncoderBiasExperiment**
 
-This directory measures the model’s ability to differentiate and understand activities in a scene between similar actions. For each phase, the directory contains:
+```
+python main.py --space experiment --task text-encoder-bias --gpath <unzipped_dataset_path> --opath <output_path>
+```
 
-- **Experiment Notebook:** Used to conduct the experiment.
-- **Results Notebook:** Used to aggregate and plot the results.
+#### 1.3 **TextToImageRetrievalExperiment**
 
-## Phases
+```
+python main.py --space experiment --task text-image-retrieval --gpath <unzipped_dataset_path> --opath <output_path>
+```
 
-The repository is structured into three phases:
-- **phaze1**
-- **phaze2**
-- **phaze3**
+#### 1.4 **ActivityRetrievalExperiment**
 
-Each phase represents a distinct set of images used in the experiments.
+```
+python main.py --space experiment --task activity-retrieval --gpath <unzipped_dataset_path> --opath <output_path>
+```
 
-## How to Use
+### 2. Image Generation
 
-1. Clone this repository to your local machine.
-2. Download and unzip the dataset by running the following commands:
-    ```bash
-    cd GABInsight
-    gdown https://drive.google.com/uc?id=13qeOuszF52b8F7Bkvxg5GEEHEl_7obzM
-    unzip phazes.zip
-    ```
-3. Navigate to the directory of the experiment you wish to explore.
-4. Open the corresponding experiment notebook to run the experiment.
-5. Use the results notebook to aggregate and visualize the results.
+Prerequisites
+```bash
+docker compose up -d
+docker exec -it ollama
+ollama run llama3
+```
 
-For detailed information on each experiment, refer to the main paper associated with this repository.
+#### 2.1 Full Enhanced & Fair Prompt Generation
+```bash
+python main.py --space pipeline --data text --method full --cpath ./utils/data/dummy/caption/pipeline.csv --opath <output_path>
+```
+
+You can see an example result at `./utils/data/dummy/caption/example/`
+
+#### 2.2 Fairness Clustering 
+```bash
+python main.py --space genai --method config --task llm-diversity 
+```
+The result will be saved at ./utils/data/text/cluster.pkl
+
+#### 2.3 Image Generation 
+
+You can use the the output of `2.1` to generate images from any online text-to-image models like DALLE.
+
+
+### 3. Generated Image Evaluation
+
+#### Reference Dataset
+Ensure your reference dataset closely resembles the scenario of your generated images. In our case, we filter the COCO dataset using yolov8 in ./utils/tools/filter/yolo.py.
+#### 3.1 Fidelity & Reality Evalaution
+```bash
+python main.py --space metric --method quality --task report --gpath <generated_dataset_path> --rpath <reference_datatset_path>
+```
+
+#### 3.2 Diversity Evalaution
+```bash
+python main.py --space metric --method diversity --task report --gpath <generated_dataset_path> --rpath <reference_datatset_path>
+```
+
+-----
+We welcome contributions and feedback to enhance the study of gender bias in VLMs and look forward to further improving the GAB dataset and evaluation tools.
